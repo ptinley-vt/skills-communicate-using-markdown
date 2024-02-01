@@ -7,5 +7,15 @@ Level 2
 A picture and a thousand words....
 ![Markdown graphic](https://www.freecodecamp.org/news/content/images/size/w2000/2022/08/Markdown-cheatsheet.png)
 (https://www.freecodecamp.org/news/markdown-cheatsheet/)
+## Referencing code
 
+Example 1
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+Example 2
+``` javascript
+var myVar = "Hello, world!";
+```
 
